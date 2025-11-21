@@ -21,11 +21,11 @@ const Home = () => {
                 <div className="hero bg-base-200 min-h-screen">
   <div className="hero-content flex-col lg:flex-row">
     <img
-      src="https://img.drz.lazcdn.com/static/pk/p/5a42d4d77bb6f0a51ea394abdfa5fab5.jpg_720x720q80.jpg"
-      className="w-[500px] h-[600px] object-cover rounded-lg shadow-2xl shadow"
+      src="https://cdn.mos.cms.futurecdn.net/ecFDEaoLxfRSh47BdyDQWg-1920-80.jpg"
+      className="w-[500px] h-[600px] object-cover rounded-lg shadow"
     />
     <div>
-      <h1 className="text-5xl font-bold">Bluetooth Earbuds Wireless</h1>
+      <h1 className="text-5xl font-bold">AirPods Max with USB-C just hit lowest price at Amazon for Presidents' Day</h1>
       <p className="py-6">
         Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
         quasi. In deleniti eaque aut repudiandae et a id nisi.
